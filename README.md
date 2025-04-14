@@ -1,1 +1,1 @@
-# Design-and-Implementation-of-a-Neural-Network-for-Binary-Classification-Using-TensorFlow
+# Design-and-Implementation-of-a-Neural-Network-for-Binary-Classification-Using-TensorFlow[Design and Implementation of a Neural Network for Binary Classification Using TensorFlow.pdf](https://github.com/user-attachments/files/19738603/Design.and.Implementation.of.a.Neural.Network.for.Binary.Classification.Using.TensorFlow.pdf)
